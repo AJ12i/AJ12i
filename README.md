@@ -1,6 +1,6 @@
 ### Greetings! I'm Ali Jafri 👋
 
-## I'm an Engineering with a major in Electronics and Communication.
+## I'm an Engineer with a major in Electronics and Communication.
 
 - 📑 Working on my Undergraduation Thesis.
 - 🌱 Undergoing extensive training in IC Design.
