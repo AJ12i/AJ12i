@@ -8,8 +8,10 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/ali-iqtadar-jafri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alijafri" height="30" width="30" /></a>
-
+<p align="left">
+  <a target="_blank"href="https://www.linkedin.com/in/ali-iqtadar-jafri/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:alijafri.ali@gmail.com?subject=Hey%20Ali,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ### Languages and Tools:
 
