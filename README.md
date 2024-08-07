@@ -1,23 +1,58 @@
-### Greetings! I'm Ali Jafri 👋
+<img src="https://i.imgur.com/Z9wIu5I.jpg" width="100%" height="auto"/>
+<p> 
 
-## I'm an Engineer with a major in Electronics and Communication.
+---
 
-- 📑 Working on my Undergraduation Thesis.
-- 🌱 Undergoing extensive training in IC Design.
-- 🎯 2021 Goals: Publish a Research Paper
+*Hi 👋, I am  ***Ali Jafri***,  a Master's student in Electronics Engineering at Politecnico di Milano. I specialize in Digital Design and Verification. I love to network with engineers in various domains of VLSI design.✨*
 
-### Connect with me:
+<div>
+<details>
+  <summary><strong>👨🏻‍💻 More about me</strong></summary>
+  
+- 🌱 I’m currently learning **UVM, IP and SoC Verification**
 
-<p align="left">
-  <a target="_blank"href="https://www.linkedin.com/in/ali-iqtadar-jafri/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:alijafri.ali@gmail.com?subject=Hey%20Ali,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+- 📫 Reach me at **aliiqtadar@mail.polimi.it**
+
+</details>
 </p>
 
-### Languages and Tools:
+#
 
-<p align="left">  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a><a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a><a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> </a><a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="30" height="30"/> </a></p>
+<h3 align="left">Connect with me:</h3>
 
+<p align="left">
+<a href="https://www.linkedin.com/in/ali-iqtadar-jafri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali-Jafri" height="30" width="40" /></a>
+</p>
+</div>
 
+#
+
+<h3 align="left"><i>Programming Languages:</i></h3>
+<div display="flex">
+ 
+  <img src="https://img.shields.io/badge/Verilog-6e12d4?style=for-the-badge&logo=v&logoColor=white">
+  <img src="https://img.shields.io/badge/System_Verilog-990199?style=for-the-badge&logo=SV&logoColor=white">
+  <img src="https://img.shields.io/badge/UVM%20-56347C?&style=for-the-badge&logo=UVM&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=d9db26">
+  <img src="https://img.shields.io/badge/TCL_Scripting%20-%2300599C.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white">
+</div>
+
+#
+
+<h3 align="left"><i>Tools:</i></h3>
+<div display="flex">
+ <p> <img src="https://img.shields.io/badge/Mentor_Graphics-ModelSim-12a8a0?style=for-the-badge&logo=Mentor&logoColor=white&labelColor=272e28">
+  <img src="https://img.shields.io/badge/Cadence-Virtuoso-ad931e?style=for-the-badge&logo=Cadence&logoColor=white&labelColor=272e28"> 
+  <img src="https://img.shields.io/badge/Xilinx-VIVADO-007D4?style=for-the-badge&logo=AMD&logoColor=white&labelColor=272e28">
+  <img src="https://img.shields.io/badge/Intel-Quartus-c94f0d?style=for-the-badge&logo=INTEL&logoColor=white&labelColor=272e28">
+  </p>
+  <p>
+  <img src="https://img.shields.io/badge/Github-0b260f?style=for-the-badge&logo=github&logoColor=00ff1f"/>
+  <img src="https://img.shields.io/badge/Ubuntu-c4103d?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/MATLAB-c25e1d?style=for-the-badge&logo=MATLAB&logoColor=white">
+</p>
+</div>
 
 ---
 
